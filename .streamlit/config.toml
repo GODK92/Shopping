@@ -1,0 +1,6 @@
+# 포인트 색(초록)만 지정하고, 라이트/다크 테마 전환은 그대로 유지한다.
+[theme.light]
+primaryColor = "#2E9E5B"
+
+[theme.dark]
+primaryColor = "#3DBE72"
